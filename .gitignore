@@ -1,0 +1,5 @@
+*.aux
+index.pdf
+*.gz
+*.dvi
+*.toc
